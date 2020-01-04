@@ -4,9 +4,9 @@
 <br>
 id:kakisoft
 ---
-### self‐introduction
+### self‐introduction 
 <div class="left">
-![alt](assets/image/kakisoft01.png)
+  <img src="kakisoft01.png"  width="120" height="100" border="0"/>
 </div>
 
 <div class="right">
@@ -20,7 +20,7 @@ id:kakisoft
         <rt>かきのはな　さとる</rt>
         <rp>）</rp>
         </ruby>
-        　<a href="https://twitter.com/kakisoft_tab">twitter</a>
+        　<a href="https://kakisoft-portfolio-v2.netlify.com/">ポートフォリオ</a>
       </td>
     </tr>
     <tr>
@@ -54,12 +54,16 @@ Anyway, I have been doing it for 5 months.
 
 何だかんだで、５ヶ月続いています。  
 ---
+This diary is [here](https://kaki-en-talk.com/)
+
+その日記が、こちらです。
+---
 This presentation document's point is  
 ’Why did I choose that study method?’  
 and  
 'What did I got from it?'  
 
-スライド趣旨としては、  
+このスライド趣旨としては、  
 「何故その勉強法を選んだのか。」  
 「その中で、何を得る事ができたのか。」  
 という内容です。  
@@ -144,7 +148,7 @@ I repeat it over and over again.
 これを繰り返しています。  
 ---
 Next, 'What did I got from it?'  
-次に、「その中で、何を得る事ができたのか。」  
+そして、「その中で、何を得る事ができたのか。」  
 ---
 ... I got used to English a little.  
 ・・・少し英語に慣れました。  
