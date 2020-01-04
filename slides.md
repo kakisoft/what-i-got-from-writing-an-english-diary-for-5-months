@@ -1,16 +1,64 @@
 ## What I got from writing an English diary for 5 months
+#### 英語で日記を5ヵ月書き続けて得られたもの
+<br>
+<br>
+id:kakisoft
+---
+### self‐introduction
+<div class="left">
+![alt](assets/image/kakisoft01.png)
+</div>
 
+<div class="right">
+  <table style="white-space: nowrap;border-style: none;">
+    <tr>
+      <td>名前</td>
+      <td>
+        <ruby>
+        <rb>垣花　暁</rb>
+        <rp>（</rp>
+        <rt>かきのはな　さとる</rt>
+        <rp>）</rp>
+        </ruby>
+        　<a href="https://twitter.com/kakisoft_tab">twitter</a>
+      </td>
+    </tr>
+    <tr>
+      <td>出身</td>
+      <td>沖縄県</td>
+    </tr>
+    <tr>
+      <td>仕事</td>
+      <td>物流系エンジニア（フリーランス）</td>
+    </tr>
+    <tr>
+      <td>使ってるもの</td>
+      <td>PHP/.NET/Java/RDB 全般</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>物流業界向けの言語や機器</td>
+    </tr>
+    <tr>
+      <td>趣味</td>
+      <td>リアル脱出ゲーム</td>
+    </tr>
+  </table>
+</div>
 ---
 It's a long story. I decided to write a diary in English while studying.  
+
 色々あって、勉強がてらに英語で日記を書くことにしました。  
 ---
 Anyway, I have been doing it for 5 months.  
+
 何だかんだで、５ヶ月続いています。  
 ---
 This presentation document's point is  
 ’Why did I choose that study method?’  
 and  
 'What did I got from it?'  
+
 スライド趣旨としては、  
 「何故その勉強法を選んだのか。」  
 「その中で、何を得る事ができたのか。」  
@@ -124,7 +172,7 @@ Currently, I'm asking my sister-in-law to check ...
 She got pregnant!  
 何と、彼女が子供を授かりました！  
 ---
-Congratulations!
+# Congratulations!
 ---
 On the ther hand...  
 問題の方は・・・  
