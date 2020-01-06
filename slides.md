@@ -227,5 +227,5 @@ If anyone can help me, please tell me!
 
 どなたか引き受けて下さる方がいらっしゃいましたら、是非お話をさせて下さい。  
 ---
-fin.  
+fin. 
 
