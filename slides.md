@@ -184,7 +184,7 @@ Next, 'What did I got from it?'
 ・・・少し英語に慣れました。  
 ---
 Unfortunately, I'm at such a low level.  
-I can't say "I can speak English fluently." not very much.  
+I can't say "I can speak English fluently." at all.  
 
 いや、マジでその程度です。  
 「英語ペラペラになりました！」など、とても言えるレベルではありません！  
