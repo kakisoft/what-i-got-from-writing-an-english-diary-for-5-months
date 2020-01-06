@@ -193,7 +193,7 @@ But I'm improving little by little,
 
 ですが、少しずつ上達はしているので、  
 ---
-Over time, I will continue to aim for the same level as my native language.  
+Over time, I will keep studying to aim for the same level as my native language.  
 
 そのうち母国語と同じレベルで使える事を目標に、続けていこうかと思います。  
 ---
@@ -219,7 +219,7 @@ On the other hand...
 
 問題の方は・・・  
 ---
-I have to find a new teacher to continue.  
+I have to find a new teacher to keep studying.  
 
 継続のためには、次の先生を探す必要が出てきたことです。  
 ---
