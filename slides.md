@@ -202,7 +202,7 @@ But, I have a problem in keep studying ...
 
 しかし、継続にあたり、１つ問題が・・・  
 ---
-Before the problem, there is one very happy thing.  
+Before the problem, there is one very very very very happy thing.  
 
 その問題の前に、１つ、とても喜ばしい事がありました。  
 ---
