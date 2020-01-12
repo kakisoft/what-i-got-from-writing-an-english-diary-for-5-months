@@ -54,7 +54,9 @@ Anyway, I have been doing it for 5 months.
 
 何だかんだで、５ヶ月続いています。  
 ---
-This diary is [here](https://kaki-en-talk.com/)
+This diary is here.  
+https://kaki-en-talk.com/
+
 
 その日記が、こちらです。
 ---
