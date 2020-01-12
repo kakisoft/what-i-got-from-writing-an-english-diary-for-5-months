@@ -59,7 +59,7 @@ This diary is [here](https://kaki-en-talk.com/)
 その日記が、こちらです。
 ---
 This presentation points  
-’Why did I choose that study method?’  
+’Why did I choose such a study method?’  
 and  
 'What did I got from it?'  
 
@@ -132,7 +132,8 @@ Once I write what I want to convey, I can't leave the content sloppy.
 
 文字にすると、伝える内容をいい加減なままにする事ができない。  
 ---
-However, to keep writing grammatically incorrect English is not my growth.  
+However, If I keep writing grammatically incorrect English.  
+I won't be growing up.  
 
 ただ、正しいかどうか分からない英文を書き続けるのは、自身の向上に繋がらない。    
 ---
@@ -197,7 +198,7 @@ Over time, I will keep studying to aim for the same level as my native language.
 
 そのうち母国語と同じレベルで使える事を目標に、続けていこうかと思います。  
 ---
-But, I have a problem in continuing ...  
+But, I have a problem in keep studying ...  
 
 しかし、継続にあたり、１つ問題が・・・  
 ---
