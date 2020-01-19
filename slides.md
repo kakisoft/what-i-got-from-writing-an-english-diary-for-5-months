@@ -196,7 +196,7 @@ But I'm improving little by little,
 
 ですが、少しずつ上達はしているので、  
 ---
-Over time, I will keep studying to aim for the same level as my native language.  
+Over time, I will keep studying English to aim for the same level as my native language.  
 
 そのうち母国語と同じレベルで使える事を目標に、続けていこうかと思います。  
 ---
